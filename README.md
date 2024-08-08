@@ -31,7 +31,7 @@
 
     <div class="slideshow-container">
         <div class="slides">
-            <img src="Foto 1" alt="Foto 1">
+            <img src="![Foto 1](https://github.com/user-attachments/assets/79275da2-49cd-4fba-9b63-f1c80d52d205)" alt="Foto 1">
         </div>
         <div class="slides">
             <img src="Foto 2.jpg" alt="Foto 2">
@@ -40,7 +40,8 @@
             <img src="Foto 3.jpg" alt="Foto 3">
         </div>
         <div class="slides">
-            <img src="c:\Users\Leonardo Matos\Downloads\teste\Foto 4.jpg" alt="Foto 4">
+            <img src="![Foto 4](https://github.com/user-attachments/assets/ab3f6152-ba58-4e22-84c2-3369bd701e71)
+.jpg" alt="Foto 4">
         </div>
         <div class="slides">
             <img src="c:\Users\Leonardo Matos\Downloads\teste\Foto 5.jpg" alt="Foto 5">
