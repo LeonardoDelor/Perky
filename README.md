@@ -31,7 +31,8 @@
 
     <div class="slideshow-container">
         <div class="slides">
-            <img src="Foto 1.jpg" alt="Foto 1">
+            <img src="![Foto 1](https://github.com/user-attachments/assets/e4da9b6a-63d6-41c4-8f41-b49e7dc6a4aa)
+" alt="Foto 1">
         </div>
         <div class="slides">
             <img src="Foto 2.jpg" alt="Foto 2">
