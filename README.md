@@ -31,13 +31,13 @@
 
     <div class="slideshow-container">
         <div class="slides">
-            <img src="c:\Users\Leonardo Matos\Downloads\teste\Foto 1.jpg" alt="Foto 1">
+            <img src="Foto 1.jpg" alt="Foto 1">
         </div>
         <div class="slides">
-            <img src="c:\Users\Leonardo Matos\Downloads\teste\Foto 2.jpg" alt="Foto 2">
+            <img src="Foto 2.jpg" alt="Foto 2">
         </div>
         <div class="slides">
-            <img src="c:\Users\Leonardo Matos\Downloads\teste\Foto 3.jpg" alt="Foto 3">
+            <img src="Foto 3.jpg" alt="Foto 3">
         </div>
         <div class="slides">
             <img src="c:\Users\Leonardo Matos\Downloads\teste\Foto 4.jpg" alt="Foto 4">
